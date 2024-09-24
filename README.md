@@ -1,6 +1,6 @@
 # YouTube Video Frame Extractor
 
-This Streamlit application allows users to easily create FLUX training datasets from YouTube videos by extracting and selecting frames.
+This Streamlit application allows users to easily create FLUX training datasets from YouTube videos by extracting high quality frames.
 
 ![Application Interface](app_interface.png)
 
